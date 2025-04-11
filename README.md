@@ -1,4 +1,3 @@
-# TraditionalMachineLearning
 # Traditional Machine Learning Classification on Balanced Dataset
 
 Bu projede, dengelenmiş bir veri kümesi (`balanced_update_data_dt.csv`) üzerinde çeşitli geleneksel makine öğrenmesi sınıflandırma algoritmaları kullanılarak performans karşılaştırması yapılmıştır.
